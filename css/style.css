@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Source+Sans+Pro&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	margin:0px ;
+	color: #6690bf;
+	text-align:justify;
+}
+
+h1, h2, h3{
+	font-family: 'Oswald', sans-serif;    
+	font-weight: 200;
+    letter-spacing: 6px;
+    color: #ec4499;
+}
+
+h3{
+	color:#6690bf;
+}
+
+a{
+    text-align:justify;
+	text-decoration: none;
+	text-align: center;
+}
